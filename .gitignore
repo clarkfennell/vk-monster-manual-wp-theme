@@ -1,0 +1,5 @@
+node_modules/
+.DS_Store
+cache/*
+assets/css/style.min.*
+assets/js/dist/script.min.*
