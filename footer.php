@@ -6,6 +6,5 @@
     if(!defined('BROWSERSYNC'))
       echo '.'.filemtime(get_template_directory().'/assets/js/dist/script.min.js');
     ?>.min.js" async defer></script>
-    <?php wp_footer(); ?>
 </body>
 </html>
