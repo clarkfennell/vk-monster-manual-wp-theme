@@ -1,7 +1,7 @@
 <?php
-get_header():
+include_once('header.php');
 ?>
 
 <?php
-get_footer();
+include_once('footer.php');
 ?>

@@ -1,10 +1,7 @@
 <!DOCTYPE HTML>
 <head>
     <?php wp_head(); ?>
-    <link rel="stylesheet" href="<?php echo get_template_directory_uri(); ?>/assets/css/style<?php
-    if(!defined('BROWSERSYNC'))
-      echo '.'.filemtime(get_template_directory().'/assets/css/style.min.css');
-    ?>.min.css">
+    <link rel="stylesheet" href="<?php echo get_template_directory_uri(); ?>/assets/css/style.min.css">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="theme-color" content="#000">
     <meta http-equiv="X-UA-Compatible" content="IE=11">
