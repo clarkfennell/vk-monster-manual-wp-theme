@@ -1,39 +1,47 @@
 @font-face {
     font-family: 'Lacquer';
-    src: url('/assets/fonts/Lacquer/Lacquer-Regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
-       url('/assets/fonts/Lacquer/Lacquer-Regular.woff2') format('woff2'), /* Super Modern Browsers */
-       url('/assets/fonts/Lacquer/Lacquer-Regular.woff') format('woff'), /* Pretty Modern Browsers */
-       url('/assets/fonts/Lacquer/Lacquer-Regular.ttf')  format('truetype'); /* Safari, Android, iOS */
+    src: url('../fonts/Lacquer/Lacquer-Regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('../fonts/Lacquer/Lacquer-Regular.woff2') format('woff2'), /* Super Modern Browsers */
+       url('../fonts/Lacquer/Lacquer-Regular.woff') format('woff'), /* Pretty Modern Browsers */
+       url('../fonts/Lacquer/Lacquer-Regular.ttf')  format('truetype'); /* Safari, Android, iOS */
+}
+@font-face {
+    font-family: 'BethEllen';
+    src: url('../fonts/BethEllen/BethEllen-Regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('../fonts/BethEllen/BethEllen-Regular.woff2') format('woff2'), /* Super Modern Browsers */
+       url('../fonts/BethEllen/BethEllen-Regular.woff') format('woff'), /* Pretty Modern Browsers */
+       url('../fonts/CaBethEllenbin/BethEllen-Regular.ttf')  format('truetype'); /* Safari, Android, iOS */
+    font-weight: 300;
 }
 @font-face {
     font-family: 'Cabin-Regular';
-    src: url('/assets/fonts/Cabin/Cabin-Regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
-       url('/assets/fonts/Cabin/Cabin-Regular.woff2') format('woff2'), /* Super Modern Browsers */
-       url('/assets/fonts/Cabin/Cabin-Regular.woff') format('woff'), /* Pretty Modern Browsers */
-       url('/assets/fonts/Cabin/Cabin-Regular.ttf')  format('truetype'); /* Safari, Android, iOS */
+    src: url('../fonts/Cabin/Cabin-Regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('../fonts/Cabin/Cabin-Regular.woff2') format('woff2'), /* Super Modern Browsers */
+       url('../fonts/Cabin/Cabin-Regular.woff') format('woff'), /* Pretty Modern Browsers */
+       url('../fonts/Cabin/Cabin-Regular.ttf')  format('truetype'); /* Safari, Android, iOS */
     font-weight: 300;
 }
 @font-face {
     font-family: 'Cabin-SemiBold';
-    src: url('/assets/fonts/Cabin/Cabin-SemiBold.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
-       url('/assets/fonts/Cabin/Cabin-SemiBold.woff2') format('woff2'), /* Super Modern Browsers */
-       url('/assets/fonts/Cabin/Cabin-SemiBold.woff') format('woff'), /* Pretty Modern Browsers */
-       url('/assets/fonts/Cabin/Cabin-SemiBold.ttf')  format('truetype'); /* Safari, Android, iOS */
+    src: url('../fonts/Cabin/Cabin-SemiBold.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('../fonts/Cabin/Cabin-SemiBold.woff2') format('woff2'), /* Super Modern Browsers */
+       url('../fonts/Cabin/Cabin-SemiBold.woff') format('woff'), /* Pretty Modern Browsers */
+       url('../fonts/Cabin/Cabin-SemiBold.ttf')  format('truetype'); /* Safari, Android, iOS */
     font-weight: 500;
 }
 @font-face {
     font-family: 'Cabin-Medium';
-    src: url('/assets/fonts/Cabin/Cabin-Medium.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
-       url('/assets/fonts/Cabin/Cabin-Medium.woff2') format('woff2'), /* Super Modern Browsers */
-       url('/assets/fonts/Cabin/Cabin-Medium.woff') format('woff'), /* Pretty Modern Browsers */
-       url('/assets/fonts/Cabin/Cabin-Medium.ttf')  format('truetype'); /* Safari, Android, iOS */
+    src: url('../fonts/Cabin/Cabin-Medium.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('../fonts/Cabin/Cabin-Medium.woff2') format('woff2'), /* Super Modern Browsers */
+       url('../fonts/Cabin/Cabin-Medium.woff') format('woff'), /* Pretty Modern Browsers */
+       url('../fonts/Cabin/Cabin-Medium.ttf')  format('truetype'); /* Safari, Android, iOS */
     font-weight: 400;
 }
 @font-face {
     font-family: 'Cabin-Bold';
-    src: url('/assets/fonts/Cabin/Cabin-Bold.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
-       url('/assets/fonts/Cabin/Cabin-Bold.woff2') format('woff2'), /* Super Modern Browsers */
-       url('/assets/fonts/Cabin/Cabin-Bold.woff') format('woff'), /* Pretty Modern Browsers */
-       url('/assets/fonts/Cabin/Cabin-Bold.ttf')  format('truetype'); /* Safari, Android, iOS */
+    src: url('../fonts/Cabin/Cabin-Bold.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('../fonts/Cabin/Cabin-Bold.woff2') format('woff2'), /* Super Modern Browsers */
+       url('../fonts/Cabin/Cabin-Bold.woff') format('woff'), /* Pretty Modern Browsers */
+       url('../fonts/Cabin/Cabin-Bold.ttf')  format('truetype'); /* Safari, Android, iOS */
     font-weight: 600;
 }
